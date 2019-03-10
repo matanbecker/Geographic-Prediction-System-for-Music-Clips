@@ -12,7 +12,7 @@ their extraction involves a complex process.
 The response variables are:
 
 latitude: which is the latitude of the city the music originates from. Note that the
-numbers are presented in a dierent setup than the standard geographical coordinates.
+numbers are presented in a different setup than the standard geographical coordinates.
 
 longitude: which is the longitude of the city the music originates from. Note that the
-numbers are presented in a dierent setup than the standard geographical coordinates.
+numbers are presented in a different setup than the standard geographical coordinates.
